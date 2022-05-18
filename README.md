@@ -1,0 +1,1 @@
+## Repository destinated to learn Rust
